@@ -1,7 +1,7 @@
 # Quatro projetos em Python foi criado para um trabalho de faculdade:
 
 ## Pasta "Empresa" - Sistema de cadastro de funcionarios: 
-#### Descrição: Este projeto é um sistema simples para gerenciar funcionários de uma empresa. Ele permite cadastrar novos funcionários, consultar funcionários por diversos critérios (id, setor), remover funcionários e encerrar o programa.
+##### Descrição: Este projeto é um sistema simples para gerenciar funcionários de uma empresa. Ele permite cadastrar novos funcionários, consultar funcionários por diversos critérios (id, setor), remover funcionários e encerrar o programa.
 
 ## Funcionalidades:
 1. Cadastrar Funcionários
@@ -10,7 +10,7 @@
 4. Encerrar o Programa.
    
 ## Pasta "Loja 1" - Calculadora de Parcelamento com Juros:
-### Este programa calcula o valor de parcelas e o total parcelado com base no valor do pedido e na quantidade de parcelas escolhidas, considerando diferentes taxas de juros conforme o número de parcelas.
+#### Este programa calcula o valor de parcelas e o total parcelado com base no valor do pedido e na quantidade de parcelas escolhidas, considerando diferentes taxas de juros conforme o número de parcelas.
 
 ## Funcionalidades:
 1. Entrada de Dados
@@ -26,7 +26,7 @@
 11. Mostra o valor da parcela e o valor total parcelado.
 
 ## Pasta "lojaCamisetas" - Fábrica de Camisetas - Sistema de Pedidos: 
-### Este programa simula um sistema de pedidos de camisetas na Fábrica. O usuário pode escolher o modelo da camiseta, a quantidade desejada com possíveis descontos, o tipo de frete, e o programa calcula o valor total do pedido.
+#### Este programa simula um sistema de pedidos de camisetas na Fábrica. O usuário pode escolher o modelo da camiseta, a quantidade desejada com possíveis descontos, o tipo de frete, e o programa calcula o valor total do pedido.
 
 ## Funcionalidades:
 1. Escolha do Modelo de Camiseta
@@ -42,7 +42,7 @@
 11. Mostra ao usuário um resumo detalhado do pedido, incluindo o modelo escolhido, o valor por unidade, o número de camisetas com desconto, o subtotal, o valor do frete e o total final a pagar.
 
 ## Pasta "Marmitaria" - Loja de Marmitas - Sistema de Pedidos: 
-### Este programa simula um sistema de pedidos de marmitas na Loja da Vitória Souza do Nascimento. O usuário pode escolher entre diferentes sabores e tamanhos de marmitas, visualizar os preços correspondentes, acumular o total do pedido e finalizar o pedido quando desejar.
+#### Este programa simula um sistema de pedidos de marmitas na Loja da Vitória Souza do Nascimento. O usuário pode escolher entre diferentes sabores e tamanhos de marmitas, visualizar os preços correspondentes, acumular o total do pedido e finalizar o pedido quando desejar.
 
 ## Funcionalidades:
 1. Exibição do Cardápio
